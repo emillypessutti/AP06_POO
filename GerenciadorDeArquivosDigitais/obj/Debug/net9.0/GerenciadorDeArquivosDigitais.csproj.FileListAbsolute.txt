@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\bin\Debug\net9.0\GerenciadorDeArquivosDigitais.exe
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\bin\Debug\net9.0\GerenciadorDeArquivosDigitais.deps.json
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\bin\Debug\net9.0\GerenciadorDeArquivosDigitais.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\bin\Debug\net9.0\GerenciadorDeArquivosDigitais.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\bin\Debug\net9.0\GerenciadorDeArquivosDigitais.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\refint\GerenciadorDeArquivosDigitais.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\GerenciadorDeArquivosDigitais.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\GerenciadorDeArquivosDigitais\obj\Debug\net9.0\ref\GerenciadorDeArquivosDigitais.dll
