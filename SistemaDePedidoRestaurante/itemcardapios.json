@@ -1,0 +1,18 @@
+[
+  {
+    "$type": "Prato",
+    "DescricaoDetalhada": "Lasanha com molho branco e quatro queijos",
+    "Vegetariano": true,
+    "Id": "8023e01c-29e2-4c08-96ff-03998d968b67",
+    "NomeItem": "Lasanha Quatro Queijos",
+    "Preco": 32.90
+  },
+  {
+    "$type": "Bebida",
+    "VolumeMl": 300,
+    "Alcoolica": false,
+    "Id": "63546a7b-ed1e-4d4e-a3da-acd53bd8db3b",
+    "NomeItem": "Suco de Uva Natural",
+    "Preco": 7.50
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\bin\Debug\net9.0\SistemaDePedidoRestaurante.exe
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\bin\Debug\net9.0\SistemaDePedidoRestaurante.deps.json
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\bin\Debug\net9.0\SistemaDePedidoRestaurante.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\bin\Debug\net9.0\SistemaDePedidoRestaurante.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\bin\Debug\net9.0\SistemaDePedidoRestaurante.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\refint\SistemaDePedidoRestaurante.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\SistemaDePedidoRestaurante.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\SistemaDePedidoRestaurante\obj\Debug\net9.0\ref\SistemaDePedidoRestaurante.dll
