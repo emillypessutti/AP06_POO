@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\bin\Debug\net9.0\InventarioDeEquipamentoTI.exe
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\bin\Debug\net9.0\InventarioDeEquipamentoTI.deps.json
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\bin\Debug\net9.0\InventarioDeEquipamentoTI.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\bin\Debug\net9.0\InventarioDeEquipamentoTI.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\bin\Debug\net9.0\InventarioDeEquipamentoTI.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\refint\InventarioDeEquipamentoTI.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\InventarioDeEquipamentoTI.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\InventarioDeEquipamentoTI\obj\Debug\net9.0\ref\InventarioDeEquipamentoTI.dll
