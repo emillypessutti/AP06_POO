@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\bin\Debug\net9.0\CatalogoDeProdutos.exe
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\bin\Debug\net9.0\CatalogoDeProdutos.deps.json
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\bin\Debug\net9.0\CatalogoDeProdutos.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\bin\Debug\net9.0\CatalogoDeProdutos.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\bin\Debug\net9.0\CatalogoDeProdutos.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\refint\CatalogoDeProdutos.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\CatalogoDeProdutos.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\CatalogoDeProdutos\obj\Debug\net9.0\ref\CatalogoDeProdutos.dll
