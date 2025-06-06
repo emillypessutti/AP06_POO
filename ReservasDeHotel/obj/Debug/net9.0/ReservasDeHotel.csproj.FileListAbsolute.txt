@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\bin\Debug\net9.0\ReservasDeHotel.exe
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\bin\Debug\net9.0\ReservasDeHotel.deps.json
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\bin\Debug\net9.0\ReservasDeHotel.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\bin\Debug\net9.0\ReservasDeHotel.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\bin\Debug\net9.0\ReservasDeHotel.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\refint\ReservasDeHotel.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ReservasDeHotel.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\ReservasDeHotel\obj\Debug\net9.0\ref\ReservasDeHotel.dll
