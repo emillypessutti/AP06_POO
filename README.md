@@ -23,15 +23,15 @@ Cada pasta contém seu próprio projeto `.csproj`, arquivos de código-fonte, mo
 
 ## Como executar
 
-1. Clone o repositório.
+1. Clone o repositório:
 ```
 git clone https://github.com/emillypessutti/AP06_POO.git
 ```
-3. Navegue até o diretório desejado.
+3. Navegue até o diretório desejado:
 ```
 cd InventarioDeEquipamentoTI
 ```
-4. Compile e execute o projeto.
+4. Compile e execute o projeto:
 ```
 dotnet run
 ```
