@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\bin\Debug\net9.0\RegistroDePacientes.exe
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\bin\Debug\net9.0\RegistroDePacientes.deps.json
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\bin\Debug\net9.0\RegistroDePacientes.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\bin\Debug\net9.0\RegistroDePacientes.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\bin\Debug\net9.0\RegistroDePacientes.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\refint\RegistroDePacientes.dll
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.pdb
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\RegistroDePacientes.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP06_POO\RegistroDePacientes\obj\Debug\net9.0\ref\RegistroDePacientes.dll

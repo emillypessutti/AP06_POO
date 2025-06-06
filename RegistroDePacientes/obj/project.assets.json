@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\AP06_POO\\GerenciamentoFuncionarioDepartamento\\GerenciamentoFuncionarioDepartamento.csproj",
-      "projectName": "GerenciamentoFuncionarioDepartamento",
-      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\AP06_POO\\GerenciamentoFuncionarioDepartamento\\GerenciamentoFuncionarioDepartamento.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\AP06_POO\\RegistroDePacientes\\RegistroDePacientes.csproj",
+      "projectName": "RegistroDePacientes",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\AP06_POO\\RegistroDePacientes\\RegistroDePacientes.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\AP06_POO\\GerenciamentoFuncionarioDepartamento\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\AP06_POO\\RegistroDePacientes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
